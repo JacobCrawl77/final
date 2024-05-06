@@ -1,0 +1,26 @@
+h1
+{
+	color: silver;
+    border:  10px double silver;
+	padding : 5px ;
+	width : 1870PX ;
+    text-align: center;
+}
+p
+{ color: silver;}
+h2
+{color: silver;}
+h3
+{color: silver;}
+td
+{color: silver;}
+tr
+{color: silver;}
+th
+{color: silver;}
+ul
+{color: silver;}
+a:hover { background: silver;}
+a:active { background: red; color : white;}
+a:visited { color: blue;
+			background: silver;}
